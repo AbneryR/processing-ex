@@ -1,0 +1,1 @@
+Mover [] movers = new Mover[10];
